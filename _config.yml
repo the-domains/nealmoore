@@ -1,0 +1,28 @@
+name: nealmoore
+favicon: null
+layout_spectrum: 0.8912044982425869
+typography_spectrum: 0.7994348050560802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10893592098727822
+  lightness: 0.7463932456448674
+  saturation: 0.6991163641214371
+  rhythmicContrast: 0.08056347980163991
+purpose: []
