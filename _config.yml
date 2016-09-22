@@ -40,6 +40,9 @@ navigation:
   - name: WTHR
     url: 'http://wthr.com'
     type: external
+  - name: Hoosier News
+    url: 'http://hoosier.news'
+    type: external
 favicon: null
 title: What's your story?
 description: writing / editing / video
