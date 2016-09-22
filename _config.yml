@@ -20,7 +20,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: mms
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fb89c7-c614-4bc1-896d-92977ac309dc.tiff
+name: Moore Media Services
 cta:
   domain: null
   bucket: null
@@ -30,7 +32,7 @@ navigation:
     url: 'http://about.me/nealmoore'
     type: external
 favicon: null
-title: Moore Media Services
+title: '"We love great storytelling!"'
 description: writing / editing / video
 purpose:
   - type: contact
