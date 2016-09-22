@@ -1,4 +1,3 @@
-layout_spectrum: 0.6914608778897673
 typography_spectrum: 0.8010023871902376
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6914608778897673
 analytics:
   google: null
   facebook: null
@@ -33,6 +33,9 @@ cta:
 navigation:
   - name: About me
     url: 'http://about.me/nealmoore'
+    type: external
+  - name: Indiana University Media School
+    url: 'http://mediaschool.iu.edu'
     type: external
 favicon: null
 title: We love great storytelling!
