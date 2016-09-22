@@ -37,6 +37,9 @@ navigation:
   - name: The Media School
     url: 'http://mediaschool.indiana.edu'
     type: external
+  - name: WTHR
+    url: 'http://wthr.com'
+    type: external
 favicon: null
 title: What's your story?
 description: writing / editing / video
