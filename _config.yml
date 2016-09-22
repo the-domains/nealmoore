@@ -34,9 +34,6 @@ navigation:
   - name: About me
     url: 'http://about.me/nealmoore'
     type: external
-  - name: Indiana University Media School
-    url: 'http://mediaschool.iu.edu'
-    type: external
 favicon: null
 title: We love great storytelling!
 description: writing / editing / video
