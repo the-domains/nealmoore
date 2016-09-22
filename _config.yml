@@ -20,7 +20,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: 'writing / video / editing / training '
+name: mms
 cta:
   domain: null
   bucket: null
@@ -31,7 +31,7 @@ navigation:
     type: external
 favicon: null
 title: Moore Media Services
-description: we love storytelling
+description: mms
 purpose:
   - type: contact
     url: 'mailto:neal@nealmoore.com'
