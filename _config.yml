@@ -40,9 +40,6 @@ navigation:
   - name: WTHR
     url: 'http://wthr.com'
     type: external
-  - name: Neal Moore
-    url: 'http://facebook.com/nealmoore'
-    type: external
 favicon: null
 title: What's your story?
 description: writing / editing / video
