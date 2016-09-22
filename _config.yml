@@ -46,6 +46,9 @@ navigation:
   - name: '@brainiac'
     url: 'https://twitter.com/brainiac'
     type: external
+  - name: '@indyjournalist'
+    url: 'https://twitter.com/indyjournalist'
+    type: external
 favicon: null
 title: What's your story?
 description: writing / editing / video
