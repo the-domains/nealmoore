@@ -43,6 +43,9 @@ navigation:
   - name: Facebook
     url: 'http://facebook.com/nealmoore'
     type: external
+  - name: Twitter
+    url: 'http://twitter.com/brainiac'
+    type: external
 favicon: null
 title: What's your story?
 description: writing / editing / video
